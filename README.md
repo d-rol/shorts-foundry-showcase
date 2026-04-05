@@ -40,6 +40,8 @@ Suggested asset locations inside this public repo:
 - `media/screenshots/`
 - `media/video/`
 
+Recommended asset checklist: [docs/MEDIA_SHOT_LIST.md](./docs/MEDIA_SHOT_LIST.md)
+
 A recommended recording script is included in [docs/DEMO_VIDEO_SCRIPT.md](./docs/DEMO_VIDEO_SCRIPT.md).
 
 ## High-Level Architecture
@@ -103,6 +105,7 @@ See [docs/RESULTS_AND_VALIDATION.md](./docs/RESULTS_AND_VALIDATION.md) and [docs
 - [docs/PRIVATE_CODE_POLICY.md](./docs/PRIVATE_CODE_POLICY.md) - why this repo is docs-only
 - [docs/ROADMAP.md](./docs/ROADMAP.md) - next product steps
 - [docs/RESUME_BULLETS.md](./docs/RESUME_BULLETS.md) - resume and interview positioning
+- [docs/MEDIA_SHOT_LIST.md](./docs/MEDIA_SHOT_LIST.md) - exact screenshots and demo videos to add
 
 ## Private Code Note
 This public repository intentionally excludes:
