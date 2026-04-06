@@ -121,8 +121,6 @@ If needed for interviews, the implementation can be discussed through:
 - live explanation of the orchestration model.
 
 ## Contact
-Replace before publishing:
-- Name: `[your name]`
-- Email: `[your email]`
-- LinkedIn: `[your profile]`
-- Portfolio: `[your link]`
+- Name: `Dmitriy`
+- Email: `g231ff@gmail.com`
+- LinkedIn: `will be added later`
