@@ -35,6 +35,14 @@ It is a working orchestration system designed around real production tradeoffs:
 
 https://www.youtube.com/watch?v=0P_CoSDtcVc
 
+Performance metrics for the first 10 days:
+![Image alt](/media/screenshots/results_metrics.png)
+
+Review_sheet:
+![Image alt](media/screenshots/review_sheet_top10.png)
+
+Selection_audit:
+![Image alt](media/screenshots/selection_audit.png)
 Asset locations inside this repo:
 - `media/screenshots/`
 
@@ -110,3 +118,10 @@ If needed for interviews, the implementation can be discussed through:
 - design tradeoff discussions;
 - sanitized artifact reviews;
 - live explanation of the orchestration model.
+
+## Contact
+Replace before publishing:
+- Name: `[your name]`
+- Email: `[your email]`
+- LinkedIn: `[your profile]`
+- Portfolio: `[your link]`
