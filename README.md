@@ -32,17 +32,13 @@ It is a working orchestration system designed around real production tradeoffs:
 
 ## Demo
 Add your links here:
-- Demo video: `TBD`
-- Short walkthrough: `TBD`
+- Demo video: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0P_CoSDtcVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/0P_CoSDtcVc
 - Contact: `TBD`
 
 Suggested asset locations inside this public repo:
 - `media/screenshots/`
-- `media/video/`
-
-Recommended asset checklist: [docs/MEDIA_SHOT_LIST.md](./docs/MEDIA_SHOT_LIST.md)
-
-A recommended recording script is included in [docs/DEMO_VIDEO_SCRIPT.md](./docs/DEMO_VIDEO_SCRIPT.md).
 
 ## High-Level Architecture
 ```mermaid
@@ -101,11 +97,8 @@ See [docs/RESULTS_AND_VALIDATION.md](./docs/RESULTS_AND_VALIDATION.md) and [docs
 ## Repo Map
 - [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) - system architecture and data flow
 - [docs/RESULTS_AND_VALIDATION.md](./docs/RESULTS_AND_VALIDATION.md) - current capabilities and how the system was tested
-- [docs/DEMO_VIDEO_SCRIPT.md](./docs/DEMO_VIDEO_SCRIPT.md) - 1-3 minute demo script for portfolio use
 - [docs/PRIVATE_CODE_POLICY.md](./docs/PRIVATE_CODE_POLICY.md) - why this repo is docs-only
 - [docs/ROADMAP.md](./docs/ROADMAP.md) - next product steps
-- [docs/RESUME_BULLETS.md](./docs/RESUME_BULLETS.md) - resume and interview positioning
-- [docs/MEDIA_SHOT_LIST.md](./docs/MEDIA_SHOT_LIST.md) - exact screenshots and demo videos to add
 
 ## Private Code Note
 This public repository intentionally excludes:
