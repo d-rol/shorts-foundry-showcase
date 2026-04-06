@@ -31,13 +31,11 @@ It is a working orchestration system designed around real production tradeoffs:
 - repeatable operation across multiple episodes and source profiles.
 
 ## Demo
-Add your links here:
-- Demo video: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0P_CoSDtcVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-https://youtu.be/0P_CoSDtcVc
-- Contact: `TBD`
+[![Watch the video](https://img.youtube.com/vi/0P_CoSDtcVc/hqdefault.jpg)](https://www.youtube.com/embed/0P_CoSDtcVc)
 
-Suggested asset locations inside this public repo:
+https://www.youtube.com/watch?v=0P_CoSDtcVc
+
+Asset locations inside this repo:
 - `media/screenshots/`
 
 ## High-Level Architecture
