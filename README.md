@@ -123,4 +123,5 @@ If needed for interviews, the implementation can be discussed through:
 ## Contact
 - Name: `Dmitriy`
 - Email: `g231ff@gmail.com`
+- Telegram: `@drolchk`
 - LinkedIn: `will be added later`
